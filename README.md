@@ -1,5 +1,5 @@
-# carloscabano.github.io
-Project Portfolio
+# Carlos Cabañó - Project Portfolio
+
 1. EASY MONEY: 
 End-to-end business project with the purpose to know deeply company sales and business situation in order to implement marketing strategies based on a ANSOFF matrix. 
 Process: Data cleaning, analysis and visualization, Machine Learning models: clustering (K-Means), classification (decision tree, Gboost, Random Forest). 
